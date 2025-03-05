@@ -1,1 +1,2 @@
-﻿Write-Output "Hello World"
+$word = "Hello World"
+Write-Output $word
